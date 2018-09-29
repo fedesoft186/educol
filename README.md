@@ -1,2 +1,2 @@
 # educol
-App Educol
+App rulos
